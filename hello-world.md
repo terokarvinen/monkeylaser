@@ -4,7 +4,7 @@
 
 Moikka moi. 
 
-[Kulma kotisivustani](hello.png)
+![Kulma kotisivustani](hello.png)
 
 Heipä hei. 
 
