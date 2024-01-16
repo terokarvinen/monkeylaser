@@ -4,6 +4,8 @@
 
 Moikka moi. 
 
+[Kulma kotisivustani](hello.png)
+
 Heipä hei. 
 
 ## Kissa
