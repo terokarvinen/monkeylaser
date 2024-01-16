@@ -1,5 +1,7 @@
 # Esimerkkidokkari
 
+[Teron kotisivu](https://TeroKarvinen.com)
+
 Moikka moi. 
 
 Heipä hei. 
